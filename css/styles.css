@@ -51,7 +51,7 @@ a {
 .main-section {
   background-color: #2e2f42;
 }
-.page-header {
+.main-header {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -94,7 +94,7 @@ a {
   color: #2e2f42;
   text-transform: capitalize;
 }
-.team-list {
+.team-item {
   background-color: #ffffff;
 }
 .person-name {
